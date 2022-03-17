@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: My Seventh Article
 description: My seventh article description
 author: Subashini
@@ -10,4 +9,5 @@ tags:
 image: /assets/blog/dsc_0807.jpg
 imageAlt: Birthday Cake
 ---
+
 Lorem ipsum dolor sit amet consectetur **adipisicing** elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel **quo maxime**, magnam placeat. Reprehenderit, distinctio aliquam?
