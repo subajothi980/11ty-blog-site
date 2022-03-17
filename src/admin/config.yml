@@ -6,7 +6,7 @@ media_folder: "public/assets/blog"
 public_folder: "/assets/blog"
 
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+  - name: "blog" # Used in routes
     label: "Blog" # Used in the UI
     folder: "src/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
