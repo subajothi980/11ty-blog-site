@@ -3,6 +3,7 @@ module.exports = function (eleventyConfig) {
   // To copy assets to public folder
   eleventyConfig.addPassthroughCopy("./src/style.css");
   eleventyConfig.addPassthroughCopy("./src/assets");
+  eleventyConfig.addPassthroughCopy("./src/admin/");
 
   // For the date and year display
   eleventyConfig.addFilter("postDate", (dateObj) => {
